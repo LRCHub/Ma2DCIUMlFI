@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "BB.QUEEN",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-22T12:24:42.263481Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BB.QUEEN",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_BB.QUEEN_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BB.Queen",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_BB.Queen_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BB.QUEEN",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/03_BB.QUEEN_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BB.Queen",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/04_BB.Queen_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BB.QUEEN",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/05_BB.QUEEN_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BB. Queen",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/06_BB._Queen_東京事変.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BB.QUEEN",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_BB.QUEEN_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "BB.Queen",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_BB.Queen_東京事変.txt"
+    }
+  ]
+}
